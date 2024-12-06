@@ -1,3 +1,4 @@
+// atricia Zaragoza Palma
 package com.example.demo.model;
 
 import jakarta.persistence.*;
